@@ -1,0 +1,10 @@
+{
+  "name": "meupainel",
+  "integrations": {
+    "cordova": {},
+    "capacitor": {
+      "enabled": false
+    }
+  },
+  "type": "angular"
+}
